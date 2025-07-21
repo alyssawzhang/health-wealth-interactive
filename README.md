@@ -1,4 +1,4 @@
-# Health & Wealth: <br>Interactive Data Visualizations Relating Obesity, Cardiovascular Diseases, Life Expectancy and GDP Around the World
+# Health & Wealth: Interactive Data Visualizations
 A creative project (supervised by Dr. Shyamal Mitra) for UT-Austin's Digital Arts &amp; Media Certificate.
 
 https://github.com/user-attachments/assets/4f533bf8-42f3-40b1-878c-9ae3a9d9439f
